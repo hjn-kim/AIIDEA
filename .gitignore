@@ -1,7 +1,6 @@
 *
 !app/
 !app/**
-!installer/
-!installer/aiidea_setup.exe
+!aiidea_setup.exe
 !README.md
 !.gitignore
