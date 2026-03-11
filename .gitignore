@@ -1,8 +1,7 @@
-.env
-__pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
-dist/
-build/
-*.spec
+*
+!app/
+!app/**
+!installer/
+!installer/aiidea_setup.exe
+!README.md
+!.gitignore
