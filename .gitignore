@@ -1,6 +1,0 @@
-*
-!app/
-!app/**
-!aiidea_setup.exe
-!README.md
-!.gitignore
